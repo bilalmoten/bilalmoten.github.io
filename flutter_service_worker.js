@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "77bf7bf3eda4675a5b4c5047169b37fc",
+  "assets/AssetManifest.json": "39c36797d4fb9f4137ae07aa27c4da65",
 "assets/assets/bookimage.jpg": "c42514f869bf54eb2cc7552160ef33f2",
 "assets/assets/f0.jpg": "d2c03da6a78804ce2260d5122afdef28",
 "assets/assets/f1.jpg": "d2c03da6a78804ce2260d5122afdef28",
@@ -12,6 +12,7 @@ const RESOURCES = {
 "assets/assets/f4.jpg": "d2c03da6a78804ce2260d5122afdef28",
 "assets/assets/f5.jpg": "d2c03da6a78804ce2260d5122afdef28",
 "assets/assets/f6.jpg": "d2c03da6a78804ce2260d5122afdef28",
+"assets/assets/google-logo.png": "0439116954554c6321d684f00ad5b8ff",
 "assets/assets/images/ai.png": "846013af399ccae4e019ba48670f144e",
 "assets/assets/images/f1.jpg": "d2c03da6a78804ce2260d5122afdef28",
 "assets/assets/images/img_book1.png": "55779dc8f9471a07571d9a8c74f1d68a",
@@ -20,10 +21,13 @@ const RESOURCES = {
 "assets/assets/images/img_popular_book1.png": "cae6ef87cf65a3434573ccaaaf22a5eb",
 "assets/assets/images/img_popular_book2.png": "ab02d231ebfeadd351489e573bc010b8",
 "assets/assets/images/img_popular_book3.png": "bb34d82e5590b9887607c77fd90543a0",
-"assets/assets/profile.png": "28ad96efbce59fbb7d526a142466a1cc",
+"assets/assets/logo.png": "feb1ee28b07f343a11614ca692e743b3",
+"assets/assets/profile2.png": "f7c7e663e1eafa53a00e4664bd08d89e",
+"assets/assets/profiled.png": "28ad96efbce59fbb7d526a142466a1cc",
+"assets/assets/sps1.jpg": "97a5ba20f7dce5d67630deace457307b",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "006dfe973ad869b61dccacb565263c66",
+"assets/NOTICES": "c7e07bf6f91273bcd5d609dc6db9081a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_chat_ui/assets/2.0x/icon-arrow.png": "8efbd753127a917b4dc02bf856d32a47",
 "assets/packages/flutter_chat_ui/assets/2.0x/icon-attachment.png": "9c8f255d58a0a4b634009e19d4f182fa",
@@ -57,9 +61,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "19bc92e7f2c9d4b2c369ab181d4bfaa1",
-"/": "19bc92e7f2c9d4b2c369ab181d4bfaa1",
-"main.dart.js": "37993e4d5ff18c6e77b6b1452b44f0c9",
+"index.html": "042abd2f0794d712877436f2f3ed8856",
+"/": "042abd2f0794d712877436f2f3ed8856",
+"main.dart.js": "ab4bb9051a01a9b3b85e4d290842f1e3",
 "manifest.json": "ba8863dc41acec77f8d158f488e9f6fc",
 "version.json": "39556b631968529bdca409d008a88e8d"
 };
