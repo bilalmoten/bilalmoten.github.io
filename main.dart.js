@@ -8533,7 +8533,7 @@ _.x=e
 _.y=f
 _.z=g
 _.Q=h
-_.cx=_.CW=_.ch=_.ay=_.ax=_.at=_.as=!1
+_.cx=_.as=!1
 _.a=null
 _.b=i
 _.c=null},
@@ -8553,7 +8553,7 @@ aw5:function aw5(){},
 aw6:function aw6(){},
 aw7:function aw7(){},
 aw8:function aw8(a){this.a=a},
-aw9:function aw9(a){this.a=a},
+aw9:function aw9(){},
 awa:function awa(){},
 awb:function awb(a){this.a=a},
 aw4:function aw4(a,b){this.a=a
@@ -44338,7 +44338,7 @@ break
 case 9:case 1:return A.I(q,r)
 case 2:return A.H(o,r)}})
 return A.J($async$j3,r)},
-E(a2){var s=this,r=null,q=A.em(r,!0,B.a3,r,r,0,B.l,A.w("Sign Up",r,r,r,r,r,r,r)),p=A.w("Create an Account",r,r,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,32,r,r,B.ad,r,r,!0,r,r,r,r,r,r,r,r),r,r),o=A.t(r,16,r),n=A.a8(s.w,r,A.a2(r,r,r,r,r,r,r,r,!0,new A.a_(4,B.e,new A.bW(B.l,1,B.R,B.N)),r,r,r,r,r,r,r,r,r,r,new A.a_(4,B.e,new A.bW(B.l,2,B.R,B.N)),r,r,r,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),"Email",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,1,!1,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),new A.aw5()),m=A.t(r,16,r),l=A.a8(s.x,r,A.a2(r,r,r,r,r,r,r,r,!0,new A.a_(4,B.e,new A.bW(B.l,1,B.R,B.N)),r,r,r,r,r,r,r,r,r,r,new A.a_(4,B.e,new A.bW(B.l,2,B.R,B.N)),r,r,r,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),"Full Name",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,1,!1,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),new A.aw6()),k=A.t(r,16,r),j=A.a8(s.y,r,A.a2(r,r,r,r,r,r,r,r,!0,new A.a_(4,B.e,new A.bW(B.l,1,B.R,B.N)),r,r,r,r,r,r,r,r,r,r,new A.a_(4,B.e,new A.bW(B.l,2,B.R,B.N)),r,r,r,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),"Phone Number",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,1,!1,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),new A.aw7()),i=A.t(r,16,r),h=t.t,g=A.c1(A.b([A.iv(A.a8(s.z,r,A.a2(r,r,r,r,r,r,r,r,!0,new A.a_(0.1,B.e,new A.bW(B.l,1,B.R,B.N)),r,r,r,r,r,r,r,r,r,r,new A.a_(4,B.e,new A.bW(B.l,2,B.R,B.N)),r,r,r,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),"Password",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,1,!0,new A.aw8(s),r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),new A.aw9(s)),1),A.t(r,r,8),A.iv(A.a8(s.Q,r,A.a2(r,r,r,r,r,r,r,r,!0,new A.a_(4,B.e,new A.bW(B.l,1,B.R,B.N)),r,r,r,r,r,r,r,r,r,r,new A.a_(4,B.e,new A.bW(B.l,2,B.R,B.N)),r,r,r,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),"Confirm Password",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,1,!0,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),new A.awa()),1)],h),B.n,B.t,B.o,r),f=A.t(r,16,r),e=A.c1(A.b([new A.zC(s.as,new A.awb(s),r),A.w("I agree to the ",r,r,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.fE(r,A.w("Terms and Conditions",r,r,r,r,A.av(r,r,B.cl,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.v,!1,r,r,r,r,r,r,r,r,r,r,r,new A.awc(),r,r,r,r,r,r),A.w("and ",r,r,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.fE(r,A.w("Privacy Policy",r,r,r,r,A.av(r,r,B.cl,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.v,!1,r,r,r,r,r,r,r,r,r,r,r,new A.awd(),r,r,r,r,r,r)],h),B.n,B.t,B.o,r),d=A.t(r,12,r),c=A.bf(0,0,500,0,0),b=s.cx,a=b?B.dh:B.a0,a0=b?A.aEC(B.dh,1):A.aEC(B.l,1),a1=A.eU(50)
+E(a2){var s=this,r=null,q=A.em(r,!0,B.a3,r,r,0,B.l,A.w("Sign Up",r,r,r,r,r,r,r)),p=A.w("Create an Account",r,r,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,32,r,r,B.ad,r,r,!0,r,r,r,r,r,r,r,r),r,r),o=A.t(r,16,r),n=A.a8(s.w,r,A.a2(r,r,r,r,r,r,r,r,!0,new A.a_(4,B.e,new A.bW(B.l,1,B.R,B.N)),r,r,r,r,r,r,r,r,r,r,new A.a_(4,B.e,new A.bW(B.l,2,B.R,B.N)),r,r,r,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),"Email",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,1,!1,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),new A.aw5()),m=A.t(r,16,r),l=A.a8(s.x,r,A.a2(r,r,r,r,r,r,r,r,!0,new A.a_(4,B.e,new A.bW(B.l,1,B.R,B.N)),r,r,r,r,r,r,r,r,r,r,new A.a_(4,B.e,new A.bW(B.l,2,B.R,B.N)),r,r,r,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),"Full Name",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,1,!1,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),new A.aw6()),k=A.t(r,16,r),j=A.a8(s.y,r,A.a2(r,r,r,r,r,r,r,r,!0,new A.a_(4,B.e,new A.bW(B.l,1,B.R,B.N)),r,r,r,r,r,r,r,r,r,r,new A.a_(4,B.e,new A.bW(B.l,2,B.R,B.N)),r,r,r,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),"Phone Number",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,1,!1,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),new A.aw7()),i=A.t(r,16,r),h=t.t,g=A.c1(A.b([A.iv(A.a8(s.z,r,A.a2(r,r,r,r,r,r,r,r,!0,new A.a_(0.1,B.e,new A.bW(B.l,1,B.R,B.N)),r,r,r,r,r,r,r,r,r,r,new A.a_(4,B.e,new A.bW(B.l,2,B.R,B.N)),r,r,r,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),"Password",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,1,!0,new A.aw8(s),r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),new A.aw9()),1),A.t(r,r,8),A.iv(A.a8(s.Q,r,A.a2(r,r,r,r,r,r,r,r,!0,new A.a_(4,B.e,new A.bW(B.l,1,B.R,B.N)),r,r,r,r,r,r,r,r,r,r,new A.a_(4,B.e,new A.bW(B.l,2,B.R,B.N)),r,r,r,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),"Confirm Password",r,r,r,r,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r),r,1,!0,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),new A.awa()),1)],h),B.n,B.t,B.o,r),f=A.t(r,16,r),e=A.c1(A.b([new A.zC(s.as,new A.awb(s),r),A.w("I agree to the ",r,r,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.fE(r,A.w("Terms and Conditions",r,r,r,r,A.av(r,r,B.cl,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.v,!1,r,r,r,r,r,r,r,r,r,r,r,new A.awc(),r,r,r,r,r,r),A.w("and ",r,r,r,r,A.av(r,r,B.l,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.fE(r,A.w("Privacy Policy",r,r,r,r,A.av(r,r,B.cl,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),B.v,!1,r,r,r,r,r,r,r,r,r,r,r,new A.awd(),r,r,r,r,r,r)],h),B.n,B.t,B.o,r),d=A.t(r,12,r),c=A.bf(0,0,500,0,0),b=s.cx,a=b?B.dh:B.a0,a0=b?A.aEC(B.dh,1):A.aEC(B.l,1),a1=A.eU(50)
 b=b?A.a4(B.Fd,B.l,15):r
 c=A.c1(A.b([A.aEw(b,r,B.a2,new A.c7(a,r,a0,a1,r,r,B.a5),c,r,20,r,20),A.t(r,r,10),A.w("Matching Password and confirm password",r,r,r,r,r,r,r)],h),B.n,B.t,B.o,r)
 a1=A.t(r,32,r)
@@ -44346,23 +44346,18 @@ if(s.r)b=A.eF(r,r)
 else{b=A.lK(r,r,new A.cA(B.l,t.Fv),r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r)
 b=A.aA(r,A.bg(A.w("Sign Up",r,r,r,r,A.av(r,r,B.q,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.awe(s),b),B.f,r,r,r,r,r,r,r,r,r,1/0)}return A.bN(q,B.a3,A.bq(A.aA(r,A.cu(new A.ap(B.ai,A.aN(A.b([p,o,n,m,l,k,j,i,g,f,e,d,new A.ap(B.ai,c,r),a1,b,A.t(r,100,r)],h),B.n,B.bJ,B.o,r),r),s.d),B.f,r,r,r,r,r,r,r,r,r,r),r,B.v,r,r,B.x),r,r,r,r)}}
 A.awg.prototype={
-$0(){var s,r=this.a
-r.at=!1
-s=this.b
-if(s.length>=8)r.D(new A.awf(r))
-if(s==r.Q.a.a)r.cx=!0
-else r.cx=!1
-r.CW=!1
-if(B.c.A(s,A.c0('[!@#$%^&*(),.?":{}|<>]',!0)))r.CW=!0
-r.ax=!1
-if(B.c.A(s,A.c0("[0-9]",!0)))r.ax=!0
-r.ch=!1
-if(B.c.A(s,A.c0("[A-Z]",!0)))r.ch=!0
-r.ay=!1
-if(B.c.A(s,A.c0("[a-z]",!0)))r.ay=!0},
+$0(){var s,r=this.b
+if(r.length>=8){s=this.a
+s.D(new A.awf(s))}s=this.a
+if(r==s.Q.a.a)s.cx=!0
+else s.cx=!1
+B.c.A(r,A.c0('[!@#$%^&*(),.?":{}|<>]',!0))
+B.c.A(r,A.c0("[0-9]",!0))
+B.c.A(r,A.c0("[A-Z]",!0))
+B.c.A(r,A.c0("[a-z]",!0))},
 $S:1}
 A.awf.prototype={
-$0(){this.a.at=!0},
+$0(){},
 $S:1}
 A.awh.prototype={
 $0(){this.a.r=!1},
@@ -44425,14 +44420,7 @@ A.aw8.prototype={
 $1(a){return this.a.ako(a)},
 $S:509}
 A.aw9.prototype={
-$1(a){var s
-if(a.length===0)return"Please enter a password"
-s=this.a
-if(!s.at)return"Password must be at least 8 characters"
-if(!s.ch)return"Password must contain at least one uppercase letter"
-if(!s.ay)return"Password must contain at least one lowercase letter"
-if(!s.ax)return"Password must contain at least one number"
-if(!s.CW)return"Password must contain at least one special character"
+$1(a){if(a.length===0)return"Please enter a password"
 return null},
 $S:3}
 A.awa.prototype={
